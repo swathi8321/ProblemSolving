@@ -1,5 +1,9 @@
 package com.Java.Maths;
-
+/*9. Palindrome Number
+ * Input: x = 121
+	Output: true
+	Explanation: 121 reads as 121 from left to right and from right to left.
+ */
 public class IsNumberPalindrome {
 	
 	public boolean isNumberPalindrome(int x) {
