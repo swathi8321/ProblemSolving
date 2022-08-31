@@ -26,5 +26,6 @@ public int consecutiveNumbersSum(int n) {
 public static void main(String args[]) {
 	ConsecutiveNumbers cn = new ConsecutiveNumbers();
 	System.out.println(cn.consecutiveNumbersSum(9));
+	System.out.print("bit count is "+Integer.bitCount(2));
 }
 }
